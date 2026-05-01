@@ -49,5 +49,7 @@ The installer will compile the source code and give you the option to create a d
 - **ESC:** Pause
 - **R:** Restart ( when you loose ) 
 
+- **Currently Underdevelopment** 
+
 ## License
 MIT License - Feel free to use this for your own learning or projects.
