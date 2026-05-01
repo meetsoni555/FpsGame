@@ -2,7 +2,7 @@
 
 A lightweight, high-performance first-person shooter designed for aim training and mechanical practice. Built entirely in C++ using the **raylib** library, focusing on low-latency input and smooth 3D rendering.
 
--** Watch out ! there are Red enemies , they can spawn anywhere !! 
+- ### Watch out ! there are Red enemies , they can spawn anywhere !! ###
 
 ## Overview
 
